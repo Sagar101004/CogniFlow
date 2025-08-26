@@ -1,5 +1,4 @@
 
-cat > README.md <<'MARKDOWN'
 # CogniFlow
 ### *The Visual Playground for AI Minds*
 
