@@ -2,7 +2,7 @@
 The Visual Playground for AI Minds
 
 
-##Overview
+#Overview
 
 CogniFlow is a visual, modular platform for designing and executing agentic AI systems. It provides a drag-and-drop interface where users can compose pipelines of AI modules—combining symbolic reasoning with machine learning—to build intelligent agents without deep coding expertise.
 
