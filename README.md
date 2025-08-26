@@ -25,4 +25,4 @@ By combining symbolic AI with modern ML, CogniFlow aims to democratize AI develo
 
 ## Current Status
 - Ideation & design  
-- 
+
