@@ -1,3 +1,5 @@
 # CogniFlow
 The Visual Playground for AI Minds
+
+
 CogniFlow is a visual platform for composing agentic AI pipelines, where intelligence emerges from the interaction of modular components. The pipeline spans Perception (understanding inputs from text, images, or audio), Knowledge Representation (structuring facts and context), Reasoning & Planning (deriving inferences, strategies, and possible actions), Decision Making (selecting the optimal course of action), Action (executing tasks through APIs or system integrations), Learning (adapting models and rules from new data), and Memory (storing and recalling past experiences for continuity). By blending symbolic AI with machine learning, CogniFlow empowers users to visually design, test, and deploy AI agents that can think, learn, and act in dynamic environments.
